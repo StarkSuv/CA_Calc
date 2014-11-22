@@ -50,5 +50,9 @@ void main()
 		  }
 	  }
   }//Method works fine.
+  void finaloutput()
+  {
+	  cout << "Out of 20 your marks is:" << sum / 3;
+  }
   getch();
 }
