@@ -49,6 +49,6 @@ void main()
 			  sum = sum + ca1;
 		  }
 	  }
-  }
+  }//Method works fine.
   getch();
 }
