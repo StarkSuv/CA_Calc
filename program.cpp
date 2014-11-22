@@ -15,5 +15,6 @@ void main()
 	  cout << "Enter CA3 Marks:";
 	  cin >> ca3;
   }
+  //Methods is correct and takes all the requirements for CA calculation
   getch();
 }
